@@ -6,5 +6,4 @@ public class money {
 		return i;
 		
 	}
-
 }
